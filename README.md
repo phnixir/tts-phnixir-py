@@ -1,4 +1,4 @@
-# py-tts-phnixir
+# tts-phnixir-py
 small dumb tts progrm i wrote with python cuz i was bored but it may come in handy idk
 ## Building from source
 > this has a dependancy that is only available in windows "pypiwin32" please show me another alternative cause
